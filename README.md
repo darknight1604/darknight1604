@@ -8,4 +8,4 @@ darknight1604/darknight1604 is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=darknight1604&theme=oldie)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=darknight1604&theme=oldie&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
