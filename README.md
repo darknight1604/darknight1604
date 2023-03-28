@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @darknight1604
-- 🌱 I’m currently learning Elixir and Flutter
+- 🌱 I’m currently learning Flutter
 - 📫 How to reach me hqtan1604@gmail.com
 - 📫 Contact me in [Linkedin](www.linkedin.com/in/darknight1604)
 
